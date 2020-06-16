@@ -3,8 +3,7 @@ You can use these lists to analyze big data. e.g. for code analysis.</pre>
 ### Available languages:
 * [PHP](https://github.com/a2u/gh-repos/tree/php) `last update: 1 May 2020`
 * [Python](https://github.com/a2u/gh-repos/tree/python) `last update: 1 May 2020`
-* Javascript
-* Go
+* [Go](https://github.com/a2u/gh-repos/tree/go) `last update: 1 May 2020`
 * will be others soon {-_-}
 
 ### Usage:
