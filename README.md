@@ -1,7 +1,5 @@
-<pre>         
-📂List all repositories on Github (separated by language)
-You can use these lists to analyze big data. e.g. for code analysis.
-</pre>
+<pre>📂List all repositories on Github (separated by language)
+You can use these lists to analyze big data. e.g. for code analysis.</pre>
 ### Available languages:
 * [PHP](https://github.com/a2u/gh-repos/tree/php) `last update: 1 May 2020`
 * Python
